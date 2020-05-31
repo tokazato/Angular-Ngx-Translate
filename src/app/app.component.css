@@ -1,0 +1,10 @@
+.language {
+    display: flex;
+    justify-content: center;
+    margin-top: 50px;
+    margin-bottom: 30px;
+}
+.language a {
+    margin: 0 5px;
+    cursor: pointer;
+}
